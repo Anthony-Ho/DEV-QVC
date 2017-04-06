@@ -17,3 +17,7 @@ To get started using Qvc, download the latest distribution file from the [Releas
 For how-to questions, discussing a possible enhancement, suggestions or general discussion, please use the [User Forum](https://groups.google.com/forum/#!forum/qlikview-components-users).
 
 To report a defect (bug) or request a specific enhancement, please use the [Issues tracker](https://github.com/RobWunderlich/Qlikview-Components/issues).
+
+
+## Personal Changes
+I add a changes to accomodate different name for the same last update field for IncrementalSetup.
